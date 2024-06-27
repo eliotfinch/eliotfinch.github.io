@@ -2,7 +2,7 @@ theme: minima
 title: Eliot's homepage
 description: Bookmark this to keep an eye on my project updates!
 
-markdown: GFM
+markdown: kramdown
 
 kramdown:
   math_engine: mathjax
