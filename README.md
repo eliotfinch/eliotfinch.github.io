@@ -4,7 +4,7 @@
 
 Below we plot the real and imaginary parts. As an aside, we can work out the analytic form of these distributions by calculating the integral
 
-$$ p_N(n) = \int_{-\infty}^\infty \int_{-\infty}^\infty \mathrm{d}A ~ \mathrm{d}\phi ~ p_A(A) ~ p_\phi(\phi) ~ \delta(g(A,\phi) - n) $$
+\[ p_N(n) = \int_{-\infty}^\infty \int_{-\infty}^\infty \mathrm{d}A ~ \mathrm{d}\phi ~ p_A(A) ~ p_\phi(\phi) ~ \delta(g(A,\phi) - n) \]
 
 where
 
