@@ -28,10 +28,10 @@ $$ \delta(A\cos{\phi} - n_r) = \frac{1}{|\cos{\phi}|} \delta \left(A - \frac{n_r
 
 and the integral becomes
 
-\begin{align} 
+$$\begin{align} 
 p_N(n_r) &= \frac{1}{2\pi\sqrt{2\pi \sigma^2}} \int_0^{2\pi} ~ \mathrm{d}\phi ~ \frac{1}{|\cos{\phi}|} ~ \exp\left[-\frac{1}{2}\left( \frac{n_r}{\sigma \cos{\phi}} \right)^2\right] \\
          &= \frac{1}{\pi\sqrt{2\pi \sigma^2}} \exp\left[ -\frac{1}{4} \left( \frac{n_r}{\sigma} \right)^2 \right] K_0\left[ \frac{1}{4} \left( \frac{n_r}{\sigma} \right)^2 \right]
-\end{align}
+\end{align}$$
 
 where $K_0$ is the $n=0$ modified Bessel function of the second kind.
 
